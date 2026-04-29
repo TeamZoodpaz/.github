@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="profile/zoodpaz-logomark.png" alt="Zoodpaz" width="140" />
+<img src="https://github.com/TeamZoodpaz/.github/blob/main/profile/zoodpaz-logomark.png" alt="Zoodpaz" width="140" />
 
 # Zoodpaz
 
