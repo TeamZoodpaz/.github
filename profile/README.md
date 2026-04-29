@@ -41,23 +41,6 @@ Most things we build will not ship. That's the point. The work is to learn cheap
 
 **Cadence:** ~3 prototypes a month.
 
-## In the kitchen
-
-### 🔭 Argus &nbsp;·&nbsp; *Active build*
-
-A 10-day Retrieval-Augmented Generation PoC for Argoman. Reads the team's Confluence space, embeds it into ChromaDB, and answers questions in plain language with the source pinned to every claim.
-
-`FastAPI` · `ChromaDB` · `Confluence` · `RAG`
-
-## The team
-
-| | | |
-|---|---|---|
-| **Mahdi** &nbsp;·&nbsp; Lead | **Vahid** &nbsp;·&nbsp; ML Engineer | **Farzad** &nbsp;·&nbsp; Backend |
-| **Mehrnoosh** &nbsp;·&nbsp; Product Design | **Hossein** &nbsp;·&nbsp; Front-end | |
-
-Five humans. Architecture, ML, backend, design, front-end. Everyone ships.
-
 ## Got an idea?
 
 One paragraph. What it is, who it's for, what we'd learn.
